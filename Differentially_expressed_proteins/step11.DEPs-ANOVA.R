@@ -2,7 +2,7 @@ library(scales)
 library(stringr)
 library(mice)
 ###################################################
-load("../resources/matrisome-mit-mouse/Matrisome.mouse.RData")
+load("../resources/Matrisome.mouse.RData")
 load("../resources/Matt.n91.RData")
 load("../resources/gencode.vM11.annotation.gene.gtf.RData")
 

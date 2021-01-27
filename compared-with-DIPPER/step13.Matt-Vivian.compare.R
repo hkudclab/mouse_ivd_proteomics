@@ -3,7 +3,7 @@ library(stringr)
 library(mice)
 ###################################################
 load("../resources/Matrisome.mouse.RData")
-load("Matt.n91.RData")
+load("../resources/Matt.n91.RData")
 load("../resources/gencode.vM11.annotation.gene.gtf.RData")
 
 GNames<-MATT.dat$Genenames

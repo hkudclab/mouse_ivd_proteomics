@@ -2,9 +2,9 @@ library(scales)
 library(stringr)
 library(mice)
 ###################################################
-load("C:/Users/peikai/Documents/projects/resources/matrisome-mit-mouse/Matrisome.mouse.RData")
-load("Matt.n91.RData")
-load("C:/Users/peikai/Documents/projects/resources/gencode.vM11.annotation.gene.gtf.RData")
+load("../resources/matrisome-mit-mouse/Matrisome.mouse.RData")
+load("../resources/Matt.n91.RData")
+load("../resources/gencode.vM11.annotation.gene.gtf.RData")
 
 GNames<-MATT.dat$Genenames
 levels(GNames)[which(levels(GNames)=="1-Mar")]<-"Mtarc1"

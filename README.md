@@ -1,6 +1,6 @@
 # mouse IVD proteomics data and scripts
 
-<b>Comprehensive Mouse Intervertebral Disc Proteomics Reveals Novel Biology and Informs Applicability in Human Modelling</b>
+<b>PRIMUS: Comprehensive Mouse Intervertebral Disc Proteomics Reveals Novel Biology and Informs Applicability in Human Modelling</b>
 
 Mateusz Kudelko<sup>1</sup>, Peikai Chen<sup>1,2</sup>, Vivian Tam<sup>1,3</sup>, Ying Zhang<sup>1</sup>, Heidi Kong<sup>1</sup>, Rakesh Sharma<sup>1,4</sup>, Tiffany Y. Au<sup>1</sup>, Rajkumar Ramalingam<sup>5</sup>,
 Kathryn S.E. Cheah<sup>1</sup>, 
@@ -28,4 +28,4 @@ Keywords: mouse intervertebral disc, label free quantitation, proteomics, extrac
 Abbreviations: IVD: intervertebral disc; IDD: intervertebral disc degeneration; AF: annulus fibrosus; OAF: outer AF; IAF: inner AF; NP: nucleus pulposus; ECM: extracellular matrix.<br>
 
 # link to interactive web-page
-http://www.sbms.hku.hk/dclab/MIPPER/
+http://www.sbms.hku.hk/dclab/PRIMUS/

@@ -11,6 +11,9 @@ Mateusz Kudelko<sup>a,1</sup>, Peikai Chen<sup>a,b,1</sup>, Vivian Tam<sup>a,c</
 <sup>d</sup> Department of Orthopaedics and Traumatology, The University of Hong Kong, Hong Kong
 <br><br><br>
 
+<sup>1</sup>These authors contributed equally to this manuscript.
+
+
 link to paper: https://www.sciencedirect.com/science/article/pii/S2590028521000260
 
 *Corresponding Author<br>

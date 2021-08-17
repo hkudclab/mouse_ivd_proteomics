@@ -2,15 +2,13 @@
 
 <b>PRIMUS: Comprehensive Mouse Intervertebral Disc Proteomics Reveals Novel Biology and Informs Applicability in Human Modelling</b>
 
-Mateusz Kudelko<sup>1</sup>, Peikai Chen<sup>1,2</sup>, Vivian Tam<sup>1,3</sup>, Ying Zhang<sup>1</sup>, Heidi Kong<sup>1</sup>, Rakesh Sharma<sup>1,4</sup>, Tiffany Y. Au<sup>1</sup>, Rajkumar Ramalingam<sup>5</sup>,
-Kathryn S.E. Cheah<sup>1</sup>, 
-Wilson C.W. Chan<sup>1,2,3</sup> and Danny Chan<sup>1,3*</sup>
+Mateusz Kudelko<sup>a,1</sup>, Peikai Chen<sup>a,b,1</sup>, Vivian Tam<sup>a,c</sup>, Ying Zhang<sup>a</sup>, Heidi Oi-Yin Kong<sup>a</sup>, Rakesh Sharma<sup>a,d</sup>, Tiffany Y. Au<sup>a</sup>, Michael Kai-Tsun To<sup>b,e</sup>, Kathryn S.E. Cheah<sup>a</sup>, Wilson C.W. Chan<sup>a,b,c</sup> and Danny Chan<sup>a,b,c*</sup>
 
-<sup>1</sup>School of Biomedical Sciences, The University of Hong Kong, Pokfulam, Hong Kong. 
-<sup>2</sup>Department of Orthopaedics Surgery and Traumatology, HKU-Shenzhen Hospital, Shenzhen, China. 
-<sup>3</sup>The University of Hong Kong - Shenzhen Institute of Research and Innovation (HKU-SIRI), Shenzhen, China. 
-<sup>4</sup>Proteomics and Metabolomics Core Facility, The University of Hong Kong, Pokfulam, Hong Kong. 
-<sup>5</sup>Institute of Medical Biology, Agency for Science, Technology, and Research (A*STAR), Singapore.
+
+<sup>a</sup> School of Biomedical Sciences, The University of Hong Kong, Pokfulam, Hong Kong
+<sup>b</sup> Department of Orthopaedics Surgery and Traumatology, The University of Hong Kong -Shenzhen Hospital (HKU-SZH), Shenzhen, China
+<sup>c</sup> Proteomics and Metabolomics Core Facility, The University of Hong Kong, Pokfulam, Hong Kong
+<sup>d</sup> Department of Orthopaedics and Traumatology, The University of Hong Kong, Hong Kong
 <br><br><br>
 
 link to paper: https://www.sciencedirect.com/science/article/pii/S2590028521000260
